@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>Java_2026B</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>Ch01/P05_First_Java_Program</module>
+        <module>Ch01/P08_Variable_Declare_Assignment</module>
+        <module>Ch01/P09_Variable_Application</module>
+        <module>Ch01/P12_VarType_Valid_Scope</module>
+        <module>Ch01/P13_0b_0x_EX</module>
+        <module>Ch01/P13_Practice_EX</module>
+        <module>Ch01/P14_Long_DataType_EX</module>
+        <module>Ch01/P15_Printf_FormatString_Output</module>
+        <module>Ch01/P18_InputDialog_MessageDialog</module>
+        <module>Ch01/P19_Unicode_Mapping</module>
+        <module>Ch01/P20_Boolean_String_EX</module>
+        <module>Ch01/P18_OOP_Practice</module>
+        <module>Ch01/P22_Printf_Format</module>
+        <module>Ch01/P23_Scan_Next</module>
+        <module>Ch01/P23_Practice</module>
+        <module>Ch01/P23_GUI_Practice</module>
+        <module>Ch01/P21_Area_Compute</module>
+        <module>Ch02/P03_Expression_EX</module>
+        <module>Ch02/P04_FourOp_Mod_EX</module>
+        <module>Ch02/P05_Exp_Inc_Dec</module>
+        <module>Ch02/P06_Operator_Priority</module>
+        <module>Ch02/P07_Compound_Operator</module>
+        <module>Ch02/P08_Bool_Relationship</module>
+        <module>Ch02/P09_Logic_AND_OR_Short</module>
+        <module>Ch02/P10_Short_Logic_Operator</module>
+        <module>Ch02/Test01</module>
+        <module>Ch02/P11_t01</module>
+        <module>Tony/untitled1</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>27</maven.compiler.source>
+        <maven.compiler.target>27</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
